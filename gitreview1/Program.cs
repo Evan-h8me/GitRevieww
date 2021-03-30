@@ -6,11 +6,11 @@ namespace gitreview1
     {
         static void Main(string[] args)
         {
-            string today = "Today is Wednesday, February 10, 2021";
+            string today = "Today is February 11, 2021 - the fifth day of the week";
             Console.WriteLine(today);
 
 
-            Console.WriteLine("my favorite colour is purple");
+            Console.WriteLine("GitHub is yo");
 
             Console.ReadKey();
         }
