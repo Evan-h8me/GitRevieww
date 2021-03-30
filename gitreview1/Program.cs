@@ -6,8 +6,11 @@ namespace gitreview1
     {
         static void Main(string[] args)
         {
-            string today = "Today is Tuesday, February 9, 2021";
+            string today = "Today is Wednesday, February 10, 2021";
             Console.WriteLine(today);
+
+
+            Console.WriteLine("my favorite colour is purple");
 
             Console.ReadKey();
         }
